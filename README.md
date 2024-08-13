@@ -1,3 +1,7 @@
+### Overview of the app
+This is a very very simple frontend heavy full-stack personal storage solution for uploading, organizing and accessing your files with enhancement that I made with some very noob choices like clerk-auth LOL
+
+### Next bs...
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
